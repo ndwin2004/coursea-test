@@ -1,2 +1,2 @@
 # coursea-test
-I am on my way
+coursea test epository
